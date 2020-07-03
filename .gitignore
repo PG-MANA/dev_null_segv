@@ -1,0 +1,8 @@
+key
+*.order
+*.symvers
+*.mod*
+dev_null_segv.ko
+dev_null_segv.o
+.kdev4/
+.dev_null_segv.*
